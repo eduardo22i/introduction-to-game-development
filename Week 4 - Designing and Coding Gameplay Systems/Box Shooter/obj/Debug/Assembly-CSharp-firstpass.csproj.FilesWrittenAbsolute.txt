@@ -1,0 +1,17 @@
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
