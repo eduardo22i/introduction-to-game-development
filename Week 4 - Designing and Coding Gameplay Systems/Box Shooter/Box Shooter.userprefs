@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TargetBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BasicMover.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/TargetMover.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BasicController.cs" Line="8" Column="59" />
+      <File FileName="Assets/Scripts/Controller.cs" Line="38" Column="3" />
+      <File FileName="Assets/Scripts/Shooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TargetBehavior.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eduardoirias/Documents/Courses/Game Design and Development/Introduction to Game Development/Week 4 - Designing and Coding Gameplay Systems/Box Shooter/Assets/Scripts/BasicMover.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
