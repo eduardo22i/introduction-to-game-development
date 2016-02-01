@@ -7,6 +7,7 @@ public class TargetBehavior : MonoBehaviour
 	// target impact on game
 	public int scoreAmount = 0;
 	public float timeAmount = 0.0f;
+	public int healt = 1;
 
 	// explosion when hit?
 	public GameObject explosionPrefab;
@@ -22,6 +23,13 @@ public class TargetBehavior : MonoBehaviour
 
 		// only do stuff if hit by a projectile
 		if (newCollision.gameObject.tag == "Projectile") {
+			healt--;
+			if (healt > 0) {
+				Destroy (newCollision.gameObject);
+				this.GetComponent<Animator> ().SetTrigger ("Hit");
+
+				return;
+			}
 			if (explosionPrefab) {
 				// Instantiate an explosion effect at the gameObjects position and rotation
 				Instantiate (explosionPrefab, transform.position, transform.rotation);

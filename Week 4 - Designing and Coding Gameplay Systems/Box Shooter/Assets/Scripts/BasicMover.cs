@@ -21,6 +21,9 @@ public class BasicMover : MonoBehaviour {
 			// move up and down over time
 			gameObject.transform.Translate (Vector3.up * Mathf.Cos (Time.timeSinceLevelLoad) * motionMagnitude);
 		}
+
+		gameObject.transform.Translate (Vector3.forward * -Mathf.Cos (Time.timeSinceLevelLoad) * motionMagnitude);
+
 	}
 
 }

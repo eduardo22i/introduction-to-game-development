@@ -12,4 +12,9 @@ public class NextLevel : MonoBehaviour {
 			GameManager.gm.NextLevel();
 		}
 	}
+
+	public void loadFirstLevel() {
+		Application.LoadLevel ("Level1");
+	}
+		
 }
